@@ -1,6 +1,6 @@
 Relatório de Implementação de Serviços AWS
 
-Data:11 de agosto de 2025
+Data: 11 de agosto de 2025
 Empresa: Abstergo Industries
 Responsável: Liliane Lima
 
